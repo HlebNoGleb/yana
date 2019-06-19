@@ -780,7 +780,7 @@ iframe#youtube {
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
-	font-family: 'Exo 2';
+	
 }
 
 /* Footer Center */
@@ -809,7 +809,7 @@ iframe#youtube {
 	color: #ffffff;
 	vertical-align: middle;
 	margin:0;
-	font-family: 'Exo 2';
+	
 }
 
 .footer-distributed .footer-center p span{
@@ -817,14 +817,14 @@ iframe#youtube {
 	font-weight: normal;
 	font-size:14px;
 	line-height:2;
-	font-family: 'Exo 2';
+	
 }
 
 
 .footer-distributed .footer-center p a{
 	  color: #f7efe5;
 	text-decoration: none;
-	font-family: 'Exo 2';
+	
 }
 
 
@@ -840,7 +840,7 @@ iframe#youtube {
 	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
-	font-family: 'Exo 2';
+	
 }
 .footer-distributed  .developer{
 	line-height: 20px;
@@ -848,7 +848,7 @@ iframe#youtube {
 	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
-	font-family: 'Exo 2';
+	
 	text-decoration: none;
 	transition: .2s all ease;
 }
